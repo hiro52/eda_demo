@@ -11,4 +11,4 @@
       condition: event.payload.message == "Ansible is super cool"
       action:
         run_job_template:
-          name: say-what
+          name: Demo Job Template
